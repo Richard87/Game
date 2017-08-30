@@ -30,11 +30,12 @@ Gitter - https://gitter.im/chat-runner/Lobby
    - Back End
      - Python for machine learning + AI?
      - PostreSQL for DB?
+     - PHP for Web-Backend (Symfony + Webpack Encore for bundling frontend code)?
  - Utilities 
     - Machine Learning Packages
     - Chat Room Packages
  - DevOps + Tools
     - GitHub
     - Gitter
-    - Webpack?
+    - Webpack
     - Mocha/Jest?
